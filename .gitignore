@@ -1,0 +1,5 @@
+.venv/
+lab2/cache/
+lab4/archive
+lab4/books_data.pkl
+lab4/gutenberg/
